@@ -1,0 +1,41 @@
+.box {
+  background-color: #7abdce8a;
+  width: 900px; 
+  height: 500px; 
+  border: 20px solid #050505e5;
+  
+  padding-left: 15px;
+}
+
+
+
+
+.picture_size_1 {
+  width: 80px;
+  height: 80px;
+}
+
+.picture_size_2 {
+  width: 40px;
+  height: 40px;
+  margin-left: 110px;
+}
+
+
+
+
+.text-white {
+  color: white;
+}
+
+.text-d_blue {
+  color: rgba(55, 72, 218, 0.884);
+}
+
+.text-blue {
+  font-size: 25px;
+  color: rgba(49, 64, 196, 0.568);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+}
